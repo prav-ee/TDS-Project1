@@ -1,4 +1,4 @@
-# TDS-Project1
+# TDS Project 1
 
 This repository contains an automated task receiver and processor system built with FastAPI. The system is designed to receive task assignments, generate code using Google's Gemini AI, and automatically deploy the generated applications to GitHub Pages.
 
